@@ -1,0 +1,25 @@
+{
+  "name": "restful-api-express",
+  "version": "1.0.0",
+  "description": "Restful api example following best practices",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/dmytrovelychko/restful-api-express.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "rest",
+    "api"
+  ],
+  "author": "https://github.com/dmytrovelychko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dmytrovelychko/restful-api-express/issues"
+  },
+  "homepage": "https://github.com/dmytrovelychko/restful-api-express#readme"
+}
